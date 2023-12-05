@@ -35,6 +35,7 @@ body
 
 .author>h2{
 	color:#777777;
+	background-color:rgb(255, 255, 255);
 }
 .author>p{
 	color:#2ecc71;
