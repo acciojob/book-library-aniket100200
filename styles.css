@@ -27,7 +27,7 @@ body
     color:rgb(95, 72, 72);    
 }
 
-.author{
+div.author{
     text-align: left;
     margin-left: 20px;
 	background-color:rgb(255, 255, 255);
@@ -39,6 +39,7 @@ body
 }
 .author>p{
 	color:#2ecc71;
+	background-color:rgb(255,255,255);
 }
 
 .price{
