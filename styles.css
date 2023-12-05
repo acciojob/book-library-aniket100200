@@ -30,16 +30,16 @@ body
 div.author{
     text-align: left;
     margin-left: 20px;
-	background-color:rgb(255, 255, 255);
+	background-color:rgb(46, 204, 113);
 }
 
 .author>h2{
 	color:#777777;
-	background-color:rgb(255, 255, 255);
+/* 	background-color:rgb(255, 255, 255); */
 }
 .author>p{
 	color:#2ecc71;
-	background-color:rgb(255,255,255);
+/* 	background-color:rgb(255,255,255); */
 }
 
 .price{
