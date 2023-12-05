@@ -1,1 +1,46 @@
 /*  your css code here. If applicable */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body
+{
+    background-color: #f8f8f8;
+}
+
+.book-library{
+    background-color: #ffffff;
+    text-align: center;
+
+}
+
+.book{
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.author>p{
+    text-transform:uppercase;
+    font-size: small;
+    color:rgb(95, 72, 72);    
+}
+
+.author{
+    text-align: left;
+    margin-left: 20px;
+}
+
+.author>h2{
+	color:#777777;
+}
+.author>p{
+	color:#2ecc71;
+}
+
+.price{
+    background-color: rgb(91, 238, 91);
+    margin-inline: 10px;
+	
+}
